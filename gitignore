@@ -1,0 +1,11 @@
+# virtual environments
+.venv/
+venv/
+
+# scratch space and exports created by the app
+.capsule_work/
+capsule_output/
+
+# python junk
+__pycache__/
+*.pyc
