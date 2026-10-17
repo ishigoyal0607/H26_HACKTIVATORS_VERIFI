@@ -1,6 +1,6 @@
-# [ProjectName] - Dependency Exit Capsule Builder
+#[Verifi] - Dependency Exit Capsule Builder
 
-**Team:** [TeamName] | **Members:** [Name 1, Name 2, Name 3]
+**Team:**[Hacktivators] | **Members:**[ISHI GOYA, ARYAN DALAL, SURABHI GOEL]
 **Event:** Hacktoberfest Hack Day Mumbai x ISTE KJSSE (Abhyantriki 2026), 15 October 2026
 **Track:** Track 1 - Gemma 4: Dependency Resilience
 
